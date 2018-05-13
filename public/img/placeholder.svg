@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="416" viewBox="0 0 720 416">
+  <g fill="#F1F4FD" fill-rule="evenodd">
+    <rect width="130" height="200" x="149" rx="6"/>
+    <rect width="130" height="200" x="295" rx="6"/>
+    <rect width="130" height="200" x="441" rx="6"/>
+    <rect width="130" height="200" x="149" y="216" rx="6"/>
+    <rect width="130" height="200" x="295" y="216" rx="6"/>
+    <rect width="130" height="200" x="441" y="216" rx="6"/>
+    <rect width="80" height="16" rx="8"/>
+    <rect width="80" height="16" y="216" rx="8"/>
+    <rect width="80" height="16" y="316" rx="8"/>
+    <g transform="translate(598 368)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <g transform="translate(598 316)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <g transform="translate(598 264)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <g transform="translate(598 212)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <g transform="translate(598 160)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <g transform="translate(598 107)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <g transform="translate(598 54)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <g transform="translate(598)">
+      <circle cx="20" cy="20" r="20"/>
+      <rect width="72" height="8" x="50" y="16" rx="4"/>
+    </g>
+    <rect width="96" height="8" y="32" rx="4"/>
+    <rect width="96" height="8" y="248" rx="4"/>
+    <rect width="96" height="8" y="348" rx="4"/>
+    <rect width="96" height="8" y="48" rx="4"/>
+    <rect width="96" height="8" y="264" rx="4"/>
+    <rect width="96" height="8" y="364" rx="4"/>
+    <rect width="96" height="8" y="64" rx="4"/>
+    <rect width="96" height="8" y="280" rx="4"/>
+    <rect width="96" height="8" y="380" rx="4"/>
+    <rect width="96" height="8" y="80" rx="4"/>
+    <rect width="96" height="8" y="96" rx="4"/>
+    <rect width="96" height="8" y="112" rx="4"/>
+    <rect width="96" height="8" y="128" rx="4"/>
+    <rect width="96" height="8" y="144" rx="4"/>
+    <rect width="96" height="8" y="160" rx="4"/>
+    <rect width="96" height="8" y="176" rx="4"/>
+  </g>
+</svg>
